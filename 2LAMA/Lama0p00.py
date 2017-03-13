@@ -6,7 +6,7 @@ import random
 import time
 
 TILES = 5
-WIDTH = 50 # 1 tile is 50 pixels high and wide
+WIDTH = 50 # Width in pixels of one tile
 RANDSTEPS=25
 
 
